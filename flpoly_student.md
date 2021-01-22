@@ -1,23 +1,22 @@
-## First Name Last Name
+## Trinity Brinkley
 
 ### Term Year 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Law, Public Policy, Negotiation, and Business
 
-- Course 2
+- Introduction to Data Science
 
-- Course 3
+- Principles of Microecnomics
 
-- Course 4
-
+- International & comparative Dimensions of Business
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Stories
 
-- Thing 2
+- Tech
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Research as shown in this website <https://www.floridapoly.edu>
