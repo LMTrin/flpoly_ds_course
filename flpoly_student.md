@@ -20,3 +20,10 @@ I am _passionate about_:
 - Tech
 
 - Research as shown in this website <https://www.floridapoly.edu>
+
+|Prefix  |Number    |Name                                              |Credits|
+|:-------|:---------|-------------------------------------------------:|------:|
+|COP     |2073      |Intro to Data Science                             |3      |
+|GEB     |3373      |International & Comparative Dimensions of Business|3      |
+|BUL     |2241      |Law, Public Policy, Negotiation, and Business     |3      |
+|ECO     |2023      |Principles of Microeconomics                      |3      |
